@@ -10,7 +10,7 @@ export const AppContext = React.createContext({});
 export const AppContextProvider = props => {
   const { children } = props;
   const [data, dispatch] = useReducer(reducer, appData);
-  console.log(data.searchResult, "data");
+
   return (
     <AppContext.Provider value={{ data, setData: dispatch }}>
       {children}

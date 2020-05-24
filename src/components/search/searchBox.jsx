@@ -48,6 +48,7 @@ const SearchBox = () => {
         type="text"
         onChange={handleSearch}
         onKeyDown={handleKeyDownSubmit}
+        data-testid="search-input"
       />
       <Button
         size="large"

@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render SearchResItem correctly 1`] = `
+<div
+  className="sc-AxjAm eiqBrL"
+>
+  <div
+    className="sc-AxgMl fFPQpl"
+  >
+    <h3
+      className="sc-AxiKw hmgbTf"
+    >
+      abc
+    </h3>
+    <p
+      className="sc-AxirZ HlyvJ"
+    >
+      xyz
+    </p>
+    <p
+      className="sc-AxhCb bSmbpm"
+    >
+      11 Mar 2019
+    </p>
+  </div>
+  <div
+    className="sc-AxheI kWoGOa"
+  >
+    <button
+      className="sc-AxhUy dIiefp"
+      onClick={[Function]}
+      value="like"
+    >
+      like
+    </button>
+    <button
+      className="sc-AxhUy dIiefp"
+      onClick={[Function]}
+      value="remove"
+    >
+      remove
+    </button>
+    <button
+      className="sc-AxhUy dIiefp"
+      onClick={[Function]}
+      value="edit"
+    >
+      edit
+    </button>
+  </div>
+</div>
+`;

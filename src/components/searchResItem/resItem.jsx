@@ -65,7 +65,9 @@ const StyledEditContainer = styled.div`
   display: flex;
 `;
 
-const SearchResItem = ({ item }) => {
+const SearchResItem = ({ item = {} }) => {
+  const [isEdit, toggleEdit] = useState(false);
+
   const [, setAction] = useAppContext();
   const [editVal, setEditVal] = useState(item.title);
 
@@ -78,7 +80,6 @@ const SearchResItem = ({ item }) => {
   const handleClickButtonAction = useCallback(
     choosenItem => e => {
       const { value } = e.target;
-      console.log(value, "value");
       setActionButton({ ...choosenItem, actionType: value });
     },
     [setActionButton]
@@ -90,8 +91,11 @@ const SearchResItem = ({ item }) => {
   };
 
   const handlesubmitEditChange = () => {
-    setActionEdit({ ...item, title: editVal, action: "edited" });
+    setActionEdit({ ...item, title: editVal });
+    toggleEdit(!isEdit);
   };
+
+  const handleEdit = useCallback(() => toggleEdit(!isEdit), []);
 
   const handleSubmitKeydown = e => {
     if (e.key === "Enter") {
@@ -103,7 +107,7 @@ const SearchResItem = ({ item }) => {
     <StyledItemWrapper>
       <StyledItemContainer>
         <StyledItemTitle>
-          {item.action === "edit" ? (
+          {isEdit ? (
             <StyledEditContainer>
               <Input
                 value={editVal}
@@ -140,8 +144,8 @@ const SearchResItem = ({ item }) => {
         >
           {item.action === "remove" ? "undo" : "remove"}
         </StyledButton>
-        {item.action !== "edit" && (
-          <StyledButton onClick={handleClickButtonAction(item)} value="edit">
+        {!isEdit && (
+          <StyledButton onClick={handleEdit} value="edit">
             edit
           </StyledButton>
         )}
