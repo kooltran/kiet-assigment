@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/kiet-assignment/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/kiet-assignment/static/js/main.b9a7d71b.chunk.js",
-    "main.js.map": "/kiet-assignment/static/js/main.b9a7d71b.chunk.js.map",
-    "runtime-main.js": "/kiet-assignment/static/js/runtime-main.13fff64e.js",
-    "runtime-main.js.map": "/kiet-assignment/static/js/runtime-main.13fff64e.js.map",
-    "static/css/2.4c6ee7a4.chunk.css": "/kiet-assignment/static/css/2.4c6ee7a4.chunk.css",
-    "static/js/2.5805659e.chunk.js": "/kiet-assignment/static/js/2.5805659e.chunk.js",
-    "static/js/2.5805659e.chunk.js.map": "/kiet-assignment/static/js/2.5805659e.chunk.js.map",
-    "index.html": "/kiet-assignment/index.html",
-    "precache-manifest.c62bfb87f20921bacc3068610e9d18f1.js": "/kiet-assignment/precache-manifest.c62bfb87f20921bacc3068610e9d18f1.js",
-    "service-worker.js": "/kiet-assignment/service-worker.js",
-    "static/css/2.4c6ee7a4.chunk.css.map": "/kiet-assignment/static/css/2.4c6ee7a4.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/kiet-assignment/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.5805659e.chunk.js.LICENSE.txt": "/kiet-assignment/static/js/2.5805659e.chunk.js.LICENSE.txt",
-    "static/media/icon_loading.svg": "/kiet-assignment/static/media/icon_loading.e2341824.svg"
+    "main.css": "/kiet-onepack-assignment/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/kiet-onepack-assignment/static/js/main.b9a7d71b.chunk.js",
+    "main.js.map": "/kiet-onepack-assignment/static/js/main.b9a7d71b.chunk.js.map",
+    "runtime-main.js": "/kiet-onepack-assignment/static/js/runtime-main.fe723ea2.js",
+    "runtime-main.js.map": "/kiet-onepack-assignment/static/js/runtime-main.fe723ea2.js.map",
+    "static/css/2.4c6ee7a4.chunk.css": "/kiet-onepack-assignment/static/css/2.4c6ee7a4.chunk.css",
+    "static/js/2.c3f86839.chunk.js": "/kiet-onepack-assignment/static/js/2.c3f86839.chunk.js",
+    "static/js/2.c3f86839.chunk.js.map": "/kiet-onepack-assignment/static/js/2.c3f86839.chunk.js.map",
+    "index.html": "/kiet-onepack-assignment/index.html",
+    "precache-manifest.c1e10d737e99753663e648c6734d104d.js": "/kiet-onepack-assignment/precache-manifest.c1e10d737e99753663e648c6734d104d.js",
+    "service-worker.js": "/kiet-onepack-assignment/service-worker.js",
+    "static/css/2.4c6ee7a4.chunk.css.map": "/kiet-onepack-assignment/static/css/2.4c6ee7a4.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/kiet-onepack-assignment/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c3f86839.chunk.js.LICENSE.txt": "/kiet-onepack-assignment/static/js/2.c3f86839.chunk.js.LICENSE.txt",
+    "static/media/icon_loading.svg": "/kiet-onepack-assignment/static/media/icon_loading.e2341824.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.13fff64e.js",
+    "static/js/runtime-main.fe723ea2.js",
     "static/css/2.4c6ee7a4.chunk.css",
-    "static/js/2.5805659e.chunk.js",
+    "static/js/2.c3f86839.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.b9a7d71b.chunk.js"
   ]
