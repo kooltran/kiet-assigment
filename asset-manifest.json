@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/kiet-onepack-assignment/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/kiet-onepack-assignment/static/js/main.b9a7d71b.chunk.js",
-    "main.js.map": "/kiet-onepack-assignment/static/js/main.b9a7d71b.chunk.js.map",
-    "runtime-main.js": "/kiet-onepack-assignment/static/js/runtime-main.fe723ea2.js",
-    "runtime-main.js.map": "/kiet-onepack-assignment/static/js/runtime-main.fe723ea2.js.map",
-    "static/css/2.4c6ee7a4.chunk.css": "/kiet-onepack-assignment/static/css/2.4c6ee7a4.chunk.css",
-    "static/js/2.c3f86839.chunk.js": "/kiet-onepack-assignment/static/js/2.c3f86839.chunk.js",
-    "static/js/2.c3f86839.chunk.js.map": "/kiet-onepack-assignment/static/js/2.c3f86839.chunk.js.map",
-    "index.html": "/kiet-onepack-assignment/index.html",
-    "precache-manifest.c1e10d737e99753663e648c6734d104d.js": "/kiet-onepack-assignment/precache-manifest.c1e10d737e99753663e648c6734d104d.js",
-    "service-worker.js": "/kiet-onepack-assignment/service-worker.js",
-    "static/css/2.4c6ee7a4.chunk.css.map": "/kiet-onepack-assignment/static/css/2.4c6ee7a4.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/kiet-onepack-assignment/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.c3f86839.chunk.js.LICENSE.txt": "/kiet-onepack-assignment/static/js/2.c3f86839.chunk.js.LICENSE.txt",
-    "static/media/icon_loading.svg": "/kiet-onepack-assignment/static/media/icon_loading.e2341824.svg"
+    "main.css": "/one-pack-assignment/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/one-pack-assignment/static/js/main.b9a7d71b.chunk.js",
+    "main.js.map": "/one-pack-assignment/static/js/main.b9a7d71b.chunk.js.map",
+    "runtime-main.js": "/one-pack-assignment/static/js/runtime-main.41e2b3bc.js",
+    "runtime-main.js.map": "/one-pack-assignment/static/js/runtime-main.41e2b3bc.js.map",
+    "static/css/2.4c6ee7a4.chunk.css": "/one-pack-assignment/static/css/2.4c6ee7a4.chunk.css",
+    "static/js/2.eec44316.chunk.js": "/one-pack-assignment/static/js/2.eec44316.chunk.js",
+    "static/js/2.eec44316.chunk.js.map": "/one-pack-assignment/static/js/2.eec44316.chunk.js.map",
+    "index.html": "/one-pack-assignment/index.html",
+    "precache-manifest.324b67f5a634e69df01168f5c410d083.js": "/one-pack-assignment/precache-manifest.324b67f5a634e69df01168f5c410d083.js",
+    "service-worker.js": "/one-pack-assignment/service-worker.js",
+    "static/css/2.4c6ee7a4.chunk.css.map": "/one-pack-assignment/static/css/2.4c6ee7a4.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/one-pack-assignment/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.eec44316.chunk.js.LICENSE.txt": "/one-pack-assignment/static/js/2.eec44316.chunk.js.LICENSE.txt",
+    "static/media/icon_loading.svg": "/one-pack-assignment/static/media/icon_loading.e2341824.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe723ea2.js",
+    "static/js/runtime-main.41e2b3bc.js",
     "static/css/2.4c6ee7a4.chunk.css",
-    "static/js/2.c3f86839.chunk.js",
+    "static/js/2.eec44316.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.b9a7d71b.chunk.js"
   ]
